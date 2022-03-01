@@ -1,0 +1,8 @@
+Origin: Abohoodie's Repo
+Label: Tweaks
+Suite: stable
+Version: 1.0
+Codename: ios
+Architectures: iphoneos-arm
+Components: main
+Description: A repo for your favorite paid and free tweaks.
