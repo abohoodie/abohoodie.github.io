@@ -1,0 +1,50 @@
+<package>
+	<id>com.abohoodie.prysm</id>
+	<name>Prysm</name>
+	<version>1.9.1k</version>
+	<compatibility>
+		<firmware>
+			<miniOS>11.0</miniOS>
+		</firmware>
+	</compatibility>
+	<shortDescription>A feature-rich control center for iOS.</shortDescription>
+	<descriptionlist>
+		<description>Prysm includes several modules that can be removed and reordered from the settings page.</description>
+		<description>Available modules include:
+			Connectivity toggles.
+			Brightness and Audio sliders.
+			Quick access toggles.
+			Media widget.
+			Weather conditions.
+			Power controls (reboot, shutdown, respring, safemode and lock).
+			Bluetooth Devices
+	</description>
+	</descriptionlist>
+	<screenshots>
+		<screenshot>
+			<image>prysm1.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>prysm2.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>prysm3.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>prysm4.png</image>
+		</screenshot>		
+		<screenshot>
+			<image>prysm5.png</image>
+		</screenshot>		
+	</screenshots>
+	<changelog>
+		<change>Fixed Apple TV remote toggle not appearing</change>
+	</changelog>
+	<links>
+		<link>
+			<name>View Package in Original Repo</name>
+			<url>https://havoc.app/package/prysm</url>
+			<iconclass>fa fa-website</iconclass>
+		</link>
+	</links>
+</package>

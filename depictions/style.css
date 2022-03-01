@@ -86,3 +86,14 @@ html.can-touch .link-item:active{ /* disable hover effect when input is touch */
     margin-bottom: 10px;
     
 }
+
+.package-icon{
+    width: 60px;
+    border-radius: 20%;
+}
+
+.package-name{
+    font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 10px;
+}
